@@ -38,10 +38,10 @@
   </description>
 
   <scm>
-    <connection>scm:svn:http://svn.apache.org/repos/asf/sling/trunk/contrib/extensions/leak-detector</connection>
+    <connection>scm:git:https://gitbox.apache.org/repos/asf/sling-org-apache-sling-extensions-classloader-leak-detector.git</conncetion>
     <developerConnection>scm:svn:https://svn.apache.org/repos/asf/sling/trunk/contrib/extensions/leak-detector
     </developerConnection>
-    <url>http://svn.apache.org/viewvc/sling/trunk/contrib/extensions/leak-detector</url>
+    <url>https://gitbox.apache.org/repos/asf?p=sling-org-apache-sling-extensions-classloader-leak-detector.git.git</url>
   </scm>
 
   <build>
